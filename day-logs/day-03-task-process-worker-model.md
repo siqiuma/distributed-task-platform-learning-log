@@ -33,3 +33,9 @@
 - Add concurrency safeguards and locking strategies
 - Transition from polling to queue-based processing in a future lesson
 - Begin Lesson 4: robustness, concurrency, and persistence considerations
+
+***Domain invariants** are the rules that must always be true for your core business objects, no matter where the change comes from (REST API, worker, scheduler, tests, future Kafka consumer, etc.).*
+- Data invariants (Task record must be valid)
+- Lifecycle invariants (Task status rules)
+- Time invariants (timestamps must make sense)
+- API/behavior invariants (how your API should behave)
