@@ -1,4 +1,4 @@
-## Day 5 – Lesson 3: Background Task Processing & Worker Model
+## Day 3 – Lesson 3: Background Task Processing & Worker Model
 
 ### What I worked on
 - Implemented a background worker using Spring’s `@Scheduled` mechanism
