@@ -1,4 +1,4 @@
-## Day 5 – Lesson 5: Indexing and Performance Awareness
+## Day 6 – Lesson 6: Indexing and Performance Awareness
 
 ### What I worked on
 - Reviewed the worker’s hot-path query (`findTop5ByStatusOrderByCreatedAt`) to identify performance-critical access patterns.
