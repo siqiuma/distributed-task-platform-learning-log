@@ -38,17 +38,6 @@
 
 ---
 
-### 3. Operational Maturity Decisions
-- Evaluated the value of adding runbooks:
-  - Determined runbooks add completeness but lower marginal resume impact
-  - Chose to keep runbooks minimal and pragmatic
-- Decided to include **curated screenshots** in the GitHub repo:
-  - Grafana dashboard panels
-  - Slack alert messages
-- Planned documentation structure for observability artifacts
-
----
-
 ## 🧠 Key Learnings
 
 - Metrics can change even without HTTP traffic due to background workers and schedulers
