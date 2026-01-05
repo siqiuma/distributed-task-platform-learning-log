@@ -1,3 +1,4 @@
+### Deprecated / historical (kept for context). Current design is in README
 ```mermaid
 flowchart LR
     Client[Client]
